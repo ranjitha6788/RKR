@@ -53,7 +53,6 @@ public class Array2DHourglass {
 			{0, 0, -1, -2, -4, 0}};
 			System.out.println(Arrays.deepToString(arr));
 			System.out.println(hourglassSum(arr));
-			System.out.println("Test");
 		
 	}
 
